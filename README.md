@@ -1,2 +1,4 @@
-# hello_world
-this is my first repo
+# Jordan Lehman
+# 2026-01-22
+
+hello world !!!
